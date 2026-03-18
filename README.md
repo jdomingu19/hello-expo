@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-ES6+-1C2024?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/node.js-20+-1C2024?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
 
+![header_hello_expo](https://github.com/user-attachments/assets/b225d135-36eb-48ed-890a-5fc3fa4be84d)
 
 ## Repository Content
 
