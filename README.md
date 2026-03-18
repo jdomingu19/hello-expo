@@ -1,4 +1,4 @@
-# Hello, TypeScript!
+# Hello, Expo!
 
 ![Static Badge](https://img.shields.io/badge/expo-50+-1C2024?style=for-the-badge&logo=expo&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/typescript-5+-1C2024?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
